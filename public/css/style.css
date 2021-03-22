@@ -1,19 +1,21 @@
 h1 {
-
+    color: red;
 }
 
 h2 {
-
+    color: blue;
 }
 
 .grand {
-
+    font-size: xx-large;
+    background-color: red;
+    font-weight: bold;
 }
 
 .souligne {
-
+    text-decoration: underline;
 }
 
 .italic {
-    
+    font-style: italic;
 }
